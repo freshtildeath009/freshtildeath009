@@ -1,5 +1,5 @@
 # 💫 About Me:
-😁 I'm an independent web developer.<br>🙌 I write short tales, poetry, and songs.<br>❤ I enjoy creating things!.<br> My portfolio: <a href="https://freshtildeath009.github.io/">Sweso</a>
+😁 I'm an independent web developer.<br>🙌 I write short tales, poetry, and songs.<br>❤ I enjoy creating things!.<br> 🌐 My portfolio: <a href="https://freshtildeath009.github.io/">Sweso</a>
 
 
 ## 🌐 Socials:
