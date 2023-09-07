@@ -1,5 +1,5 @@
 # 💫 About Me:
-😁 I'm an independent web developer.<br>🙌 I write short stories, poem, and song.<br>:pencil2: And also love to draw <br> :movie_camera: I love making short movies. <br>❤ I enjoy creating things!<br> 🌐 My portfolio: <a href="https://freshtildeath009.github.io/">Sweso</a>
+😁 I'm an independent web developer.<br>🙌 I write short stories, poem, and song.<br>:pencil2: And also love to draw.<br>:movie_camera: I love making short movies.<br>❤ and last but not least, I love to create stuff.<br> 🌐 My portfolio: <a href="https://freshtildeath009.github.io/">Sweso</a>
 
 
 ## 🌐 Socials:
