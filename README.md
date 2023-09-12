@@ -1,7 +1,6 @@
 # 💫 About Me:
 😁 I'm an independent web developer.<br>🙌 I write short stories, poem, and song.<br>:pencil2: And also love to draw.<br>:movie_camera: I love making short movies,<br>❤ and last but not least, I love to create stuff.<br> 🌐 My portfolio: <a href="https://freshtildeath009.github.io/">Sweso</a>
 
-[![](https://visitcount.itsvg.in/api?id=freshtildeath009&icon=7&color=12)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pingu.101493) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pingu-9b69a6259) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@object_vis) 
 
