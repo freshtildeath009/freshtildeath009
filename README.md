@@ -1,5 +1,5 @@
 # 💫 About Me:
-😁 I'm an independent web developer.<br>🙌 I write short stories, poem, and song.<br>:pencil2: And also love to draw.<br>:movie_camera: I love making short movies,<br>❤ and last but not least, I love to create stuff.<br> 🌐 My portfolio: <a href="https://freshtildeath009.github.io/">Sweso</a>
+😁 I'm an independent web developer.<br>🙌 I write short stories, poem, and song.<br>:pencil2: And also love to draw.<br>:movie_camera: I love making short movies,<br>❤ and last but not least, I love to create stuff.<br> 🌐 My portfolio: <a href="[https://freshtildeath009.github.io/](https://freshtildeath009.netlify.app/)">@object_vis</a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pingu-9b69a6259) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/fqHJQU8egG) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pingu.101493) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/object_vis) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/object_vis) 
