@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=freshtildeath009&icon=5&color=3)](https://visitcount.itsvg.in)
 # 💫 About Me:
 😁 I'm an independent web developer.<br>👀 I’m interested in building web applications.<br>👋 I’m looking for collaboration with anyone who is interested.
 
@@ -11,6 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=freshtildeath009&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=freshtildeath009&icon=5&color=3)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
